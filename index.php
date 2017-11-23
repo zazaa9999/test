@@ -45,3 +45,5 @@ if (!is_null($events['events'])) {
 	}
 }
 echo "Hello zaza BOT";
+
+echo $result;
