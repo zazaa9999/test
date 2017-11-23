@@ -1,5 +1,4 @@
 <?php
-<?php
 $access_token = 'XAWCotmUZKAUYUCDq+5fWv9+x3Tfq5OqAnh2ZwJs87MPxJifNJDbXaytleeGdZxS66ifQOL38Lm+szCINlTmiCYEpQNHC48849i486FGDQqamIipYskbifuHWptKYUXeNN6PI439E01d0hOq4BAKGQdB04t89/1O/w1cDnyilFU=';
 
 // Get POST body content
